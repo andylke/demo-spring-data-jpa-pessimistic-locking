@@ -9,10 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.andylke.demo</groupId>
-	<artifactId>demo-spring-data-jpa-pessimistic-locking</artifactId>
+	<artifactId>demo-spring-jpa-pessimistic-locking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
